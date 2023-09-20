@@ -1,0 +1,22 @@
+{
+  "name": "monokai-red",
+  "displayName": "Monokai Red",
+  "description": "Monokai Red",
+  "publisher": "conradsmi",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonokaiRed-color-theme.json"
+      }
+    ]
+  }
+}
